@@ -10,14 +10,20 @@ NetflixGpt is a React application that combines the power of machine learning wi
 
 ### Login/Sign Up
 ![Sign Up](/images/Signup.png)
-![Login/Sign Up](/path/to/login_signup.png)
+![Login](/images/login.png)
 
 
 ### Browse Page
-![Browse Page](/path/to/browse_page.png)
+![Browse Page_1](/images/videobg.png)
+
+![Browse Page_2](/images/browse.png)
+
+### Movie Details
+![Movie_Details Page_](/images/details.png)
+
 
 ### NetflixGpt Search
-![NetflixGpt Search](/path/to/netflixgpt_search.png)
+![NetflixGpt Search](/images/gpt.png)
 
 ## Features
 
@@ -52,11 +58,9 @@ To run the project locally, follow these steps:
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 
-## Acknowledgments
-Special thanks to Akshay Saini for his invaluable guidance and mentorship throughout the project.
 
 ## Author
-[Your Name]
+Ananadhu N V
 
 ## License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
